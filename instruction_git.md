@@ -91,3 +91,9 @@
 
     git status
 
+## Переключение в ветку maser (main)
+
+Чтобы переключиться в ветку master (main) нужно ввести команду:
+
+    git checkout master
+
