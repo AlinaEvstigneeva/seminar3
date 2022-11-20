@@ -117,3 +117,9 @@
 
     git log --all --oneline --graph
 
+## Слияние веток 
+
+Чтобы слить две ветки, необходимо ввести команду:
+
+    git merge <branch name>
+
